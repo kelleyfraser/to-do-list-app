@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/to-do-list-app/static/css/main.48a474df.css",
+    "main.css": "/to-do-list-app/static/css/main.0574edfe.css",
     "main.js": "/to-do-list-app/static/js/main.5c23745e.js",
     "static/js/787.1dad13f8.chunk.js": "/to-do-list-app/static/js/787.1dad13f8.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/to-do-list-app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -9,12 +9,12 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/to-do-list-app/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/to-do-list-app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/to-do-list-app/index.html",
-    "main.48a474df.css.map": "/to-do-list-app/static/css/main.48a474df.css.map",
+    "main.0574edfe.css.map": "/to-do-list-app/static/css/main.0574edfe.css.map",
     "main.5c23745e.js.map": "/to-do-list-app/static/js/main.5c23745e.js.map",
     "787.1dad13f8.chunk.js.map": "/to-do-list-app/static/js/787.1dad13f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48a474df.css",
+    "static/css/main.0574edfe.css",
     "static/js/main.5c23745e.js"
   ]
 }
